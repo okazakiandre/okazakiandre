@@ -28,5 +28,3 @@ A programming and personal development lover, curious, nonconformist and full ti
   <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
-
-⭐️ From [okazakiandre](https://github.com/okazakiandre)
