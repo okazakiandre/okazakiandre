@@ -1,8 +1,8 @@
-## Olá, Andre Okazaki aqui!
+## Opa, André Okazaki aqui!
 
-Programador, amante do desenvolvimento pessoal, curioso, inconformado, aprendiz em tempo integral, na busca pela melhoria contínua em tudo na vida. Fundador do Desenvolver Ideias, um projeto para ajudar programadores a fazer testes de unidade e entregar código de qualidade. 
+Sou programador, amante do desenvolvimento pessoal, curioso, inconformado, aprendiz em tempo integral, e na busca constante pela melhoria contínua. Fundador do Desenvolver Ideias, um projeto que ajuda programadores a fazer testes de unidade e entregar código de qualidade. 
 
-Se quiser conversar e tomar um café, me chama!
+Se quiser conversar e tomar uma cerveja (ou só um café mesmo), me chama!
 
 ## Meus interesses
 - Programação DotNet (e algumas outra linguagens também)
@@ -24,8 +24,5 @@ Se quiser conversar e tomar um café, me chama!
 </a>
 <a target="_blank" href="mailto:andre@desenvolverideias.com">
   <img align="left" alt="Send e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://github.com/okazakiandre">
-  <img align="left" alt="My Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
