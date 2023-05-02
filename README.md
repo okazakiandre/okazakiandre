@@ -5,8 +5,8 @@ Sou programador, amante do desenvolvimento pessoal, curioso, inconformado, apren
 Se quiser conversar e tomar uma cerveja (ou só um café mesmo), me chama!
 
 ## Meus interesses
-- Programação DotNet (e algumas outra linguagens também)
-- Arquitetura de solução
+- Programação DotNet (e algumas outras linguagens também)
+- Arquitetura de software
 - Teste de software
 - Performance de aplicações
 - Trabalho inteligente (ao invés de trabalho duro)
