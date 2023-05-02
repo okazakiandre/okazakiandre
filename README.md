@@ -1,17 +1,18 @@
-## Hi, I'm Andre Okazaki!
+## Olá, Andre Okazaki aqui!
 
-A programming and personal development lover, curious, nonconformist and full time learner, always searching for a life continuous improvement. If you want to chat and have coffee, just call me! 
+Programador, amante do desenvolvimento pessoal, curioso, inconformado, aprendiz em tempo integral, na busca pela melhoria contínua em tudo na vida. Fundador do Desenvolver Ideias, um projeto para ajudar programadores a fazer testes de unidade e entregar código de qualidade. 
 
-## My interests
-- DotNet development
-- Solution architectures
-- Tests (a lots of!!)
-- Performance improvements
-- IT Career
-- Smart Work
-- Agile
+Se quiser conversar e tomar um café, me chama!
 
-## Contact me
+## Meus interesses
+- Programação DotNet (e algumas outra linguagens também)
+- Arquitetura de solução
+- Teste de software
+- Performance de aplicações
+- Trabalho inteligente (ao invés de trabalho duro)
+- Agilidade
+
+## Meus contatos
 <a href="https://www.linkedin.com/in/okazakiandre/">
   <img align="left" alt="LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
